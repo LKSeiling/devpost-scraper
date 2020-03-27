@@ -1,0 +1,6 @@
+tdqm
+pandas
+requests
+html2text
+BeautifulSoup
+
